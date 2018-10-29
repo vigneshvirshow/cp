@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+  int s;
+  s=9-6;
+  printf("%d",s);
+}
