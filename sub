@@ -4,5 +4,5 @@ void main()
   int s,a,b;
   scanf("%d",&a,&b);
   s=a-b;
-  printf("%d",s);
+  printf("sum=%d",s);<!--Output-->
 }
