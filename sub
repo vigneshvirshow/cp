@@ -1,7 +1,8 @@
 #include<stdio.h>
 void main()
 {
-  int s;
-  s=9-6;
-  printf("%d",s);
+  int s,a,b;
+  scanf("%d",&a,&b);
+  s=a-b;
+  printf("sum=%d",s);<!--Output-->
 }
