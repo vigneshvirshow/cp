@@ -1,7 +1,9 @@
 #include<stdio.h>
 void main()
 {
-  int s;
-  s=9-6;
+  int s,a,b;
+  a=9;
+  b=6;
+  s=a-b;
   printf("%d",s);
 }
